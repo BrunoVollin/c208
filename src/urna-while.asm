@@ -1,11 +1,9 @@
 .data
-    init: .asciiz "Entre com seu voto:\n   1 Jo„o.\n   2 JosÈ.\n   3 Maria. \n"
-    computadoJoao: .asciiz "Voto computado para Jo„o.\n"
-    computadoJose: .asciiz "Voto computado para JosÈ.\n"
+    init: .asciiz "Entre com seu voto:\n   1 Jo√£o.\n   2 Jos√©.\n   3 Maria. \n"
+    computadoJoao: .asciiz "Voto computado para Jo√£o.\n"
+    computadoJose: .asciiz "Voto computado para Jos√©.\n"
     computadoMaria: .asciiz "Voto computado para Maria.\n"
     totalVotos: .asciiz "Total de votos: %d\n"
-
-    
 
     
 .text
@@ -39,6 +37,7 @@
             syscall
 
             add $t2, $t2, 1
+
 
             j main
 
