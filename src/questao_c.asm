@@ -61,7 +61,7 @@
 
         # output C
         li $v0, 4
-        la $a0, posicao3
+        la $a0, posicao
         syscall
 
         li $v0, 1
