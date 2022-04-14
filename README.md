@@ -2,8 +2,8 @@
 ## Links Úteis:
 * [Código dos execícios](https://github.com/BrunoVollin/c208/tree/master/src)
 * [Simulador MARS](https://github.com/BrunoVollin/c208/blob/master/Mars4_5.jar)
-* [Conteúdo](##Conteúdo)
-* [Exercícios](##Exercícios)
+* [Conteúdo](#conteúdo)
+* [Exercícios](#exercícios)
 
 ## Conteúdo
 
