@@ -32,6 +32,10 @@ Saidas com Int:
 	li $v0, 1
     	la $a0, 10
     	syscall
+
+	li $v0, 1
+    	la $a0, ($t0)
+    	syscall
 ```
 
 
