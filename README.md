@@ -22,7 +22,7 @@ Saidas com String:
 	myString: .asciiz "aobaaaaa!"
 
     .text
-	li $v0, 5
+	li $v0, 4
     	la $a0, myString
     	syscall
 ```
