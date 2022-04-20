@@ -11,10 +11,10 @@
         srl $t5, $t1, $v0
         srl $t6, $t2, $v0
         srl $t7, $t3, $v0
-        sll $t4, $t1, $v1
-        sll $t5, $t2, $v1
-        sll $t6, $t3, $v1
-        sll $t7, $t4, $v1
+        sll $t4, $t0, $v1
+        sll $t5, $t1, $v1
+        sll $t6, $t2, $v1
+        sll $t7, $t3, $v1
 
     questao2:
         li $t0, 324
