@@ -4,7 +4,7 @@
 * [Simulador MARS](https://github.com/BrunoVollin/c208/blob/master/Mars4_5.jar)
 * [Conteúdo](#conteúdo)
 * [Exercícios](#exercícios)
-
+* [Relatórios lab](https://github.com/BrunoVollin/c208/tree/master/lab)
 ## Conteúdo
 
 ### Entadas
